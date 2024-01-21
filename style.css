@@ -1,0 +1,9 @@
+p{
+   background-color: blue;
+   color: white;
+}
+
+div p:nth-of-type(1){
+   background-color: yellow;
+   color: red;
+}
